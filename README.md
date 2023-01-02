@@ -2,7 +2,7 @@
 
 ## Ideia do projeto: Criar um site de hospital, onde o beneficiario pode agendar suas consultas
 
-- Ultilizando C# + Angular
+- Tecnologias ultilizando TypeScript, C# ,HTML, CSS
 
 ## Pagina da Home
 <img width="401" alt="image" src="https://user-images.githubusercontent.com/88688542/210278440-d8f82f9b-d974-4ef0-b911-a12383de3694.png">
